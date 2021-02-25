@@ -43,7 +43,7 @@ const com = {
     width : 10,
     height : 100,
     score : 0,
-    color : "WHITE"
+    color : "red"
 }
 
 // NET
